@@ -1,0 +1,2 @@
+bsp_periodic_task.c:19:13:bsp_periodic_task	16	static
+bsp_periodic_task.c:53:8:bsp_periodic_task_init	16	static

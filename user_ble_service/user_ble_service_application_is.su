@@ -1,0 +1,8 @@
+user_ble_service.c:271:6:user_write_post_callback	24	static
+user_ble_service.c:381:6:user_ble_service_cccd_update_cb	40	static
+user_ble_service.c:238:14:user_ble_service_attr_read_cb	24	static
+user_ble_service.c:288:14:user_ble_service_attr_write_cb	56	static
+user_ble_service.c:198:5:user_ble_service_set_parameter	16	static
+user_ble_service.c:340:5:user_ble_service_send_v3_notify	32	static
+user_ble_service.c:362:5:user_ble_service_send_v4_indicate	32	static
+user_ble_service.c:451:13:user_ble_service_add_service	24	static

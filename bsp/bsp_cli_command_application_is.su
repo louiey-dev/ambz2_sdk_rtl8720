@@ -1,0 +1,2 @@
+bsp_cli_command.c:81:13:cliCommandInterpreter	8	static
+bsp_cli_command.c:72:6:cliCommandsInitialise	0	static

@@ -1,0 +1,10 @@
+bsp_cli.c:312:16:cliFindCommand	24	static
+bsp_cli.c:364:13:cliHelp	16	static
+bsp_cli.c:160:13:cliGetStringAndTokenise	48	static
+bsp_cli.c:127:6:cliTask	16	static
+bsp_cli.c:248:13:cliParseTokens	16	static
+bsp_cli.c:56:6:cliInit	0	static
+bsp_cli.c:84:6:cliRegisterTable	32	static
+bsp_cli.c:116:5:cli_task_init	16	static
+bsp_cli.c:432:6:cliExit	0	static
+bsp_cli.c:515:6:cliLineParser	40	static
